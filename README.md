@@ -24,7 +24,12 @@ This repository contains my solution for the PHP Full Stack Developer internship
 
 ## Output
 ### Home Page
+![Home Page](https://github.com/nikhilarokkam/JookeBox-Internship-Task/assets/115566678/8101cf34-3a7c-4a14-8695-603a7fd4befd)
 ### Registration Page
+![Register Page](https://github.com/nikhilarokkam/JookeBox-Internship-Task/assets/115566678/1c5cfd8b-edd1-4c9f-979d-c26a220c8ce3)
 ### Login Page
+![Login Page](https://github.com/nikhilarokkam/JookeBox-Internship-Task/assets/115566678/6afec1e2-e58b-474a-bcf3-6c0dfa5408c5)
 ### Dashboard
+![Dashboard](https://github.com/nikhilarokkam/JookeBox-Internship-Task/assets/115566678/15f1ebd2-6c75-407e-82c1-aeef445b2d71)
 ### Database Details
+![Database Details](https://github.com/nikhilarokkam/JookeBox-Internship-Task/assets/115566678/64e82c47-9c6e-4d83-ade5-0f528649f576)
